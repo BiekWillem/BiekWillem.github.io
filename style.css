@@ -13,3 +13,4 @@ img alg
 ul{display: inline-block;}
 ul{background-color: rgb(156, 156, 156);}
 ul li{float: left;}
+ul li a{display: block;}
