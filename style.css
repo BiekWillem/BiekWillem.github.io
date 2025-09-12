@@ -10,21 +10,12 @@ h1{font-weight: bolder;}
 h1 {font-family: 'Times New Roman', Times, serif;}
 img alg
 
-
-body {
-  margin: 0;
-  padding: 0;
-}
-
-h2, p {
-  margin: 0;
-}
-
 ul {
   list-style-type: none;
   margin: 0;
+  padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: #5f5f5f;
 }
 
 ul li {
