@@ -44,6 +44,7 @@ ul li a:hover {
 
 img {
   float: right;
-  padding: 33%;
-} 
+  padding-left: 25%;
+  padding-right: 25%;
+}  
 
