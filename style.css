@@ -1,14 +1,18 @@
 body{
-    background-color: rgb(255, 255, 255);}
+    background-color: rgb(255, 255, 255);
+    padding: 0;
+    margin: 0;
+  }
 
-h1{text-align: center;}
-h3{text-align: center;}
-h1{text-shadow: 3px 3px black}
-
-body{
-  padding: 0;
-  margin: 0;
+h3{
+  text-align: center;
 }
+
+
+h1{
+  text-shadow: 3px 3px black; text-align: center;
+}
+
 
 ul {
   list-style-type: none;
