@@ -35,7 +35,7 @@ ul li a:hover {
   background-color: #111111;
 }
 
-ul {
+ 
   position: sticky;
   top: 0;
   overflow: hidden;
