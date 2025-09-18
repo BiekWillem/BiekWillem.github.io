@@ -35,13 +35,6 @@ ul li a:hover {
   background-color: #111111;
 }
 
- 
-  position: sticky;
-  top: 0;
-  overflow: hidden;
-  background-color: #111111;
-}
-
 img {
   display: block;
   margin-left: auto;
