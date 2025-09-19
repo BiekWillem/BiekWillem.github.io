@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(81, 70, 154);
+    background-color: rgb(255, 255, 255);
     padding: 0;
     margin: 0;
   }
@@ -9,7 +9,7 @@ h3{
 }
 
 header {
-  background-color: rgb(65, 86, 155);
+  background-color: rgb(171, 171, 171);
   padding: 10px;
   text-align: center;
   font-size: 18px;
