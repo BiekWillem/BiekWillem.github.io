@@ -9,7 +9,7 @@ h3{
 }
 
 header {
-  background-color: rgb(255, 219, 172);
+  background-color: antiquewhite;
   padding: 10px;
   text-align: center;
   font-size: 18px;
@@ -36,7 +36,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #333333;
+  background-color: rgb(254, 224, 185);
 }
 
 
