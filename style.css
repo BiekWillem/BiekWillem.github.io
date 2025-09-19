@@ -1,5 +1,5 @@
 body{
-    background-color: antiquewhite;
+    background-color: rgb(81, 70, 154);
     padding: 0;
     margin: 0;
   }
@@ -9,7 +9,7 @@ h3{
 }
 
 header {
-  background-color: antiquewhite;
+  background-color: rgb(65, 86, 155);
   padding: 10px;
   text-align: center;
   font-size: 18px;
@@ -27,7 +27,7 @@ padding-left: 20px;
 }
 
 h1{
-  text-shadow: 3px 3px rgb(19, 22, 52); text-align: center;
+  text-shadow: 3px 3px rgb(0, 0, 0); text-align: center;
   color: rgb(41, 41, 73);
 }
 
