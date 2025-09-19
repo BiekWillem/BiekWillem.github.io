@@ -1,5 +1,5 @@
 body{
-    background-color: #202d46;
+    background-color: #c1d1ef;
     padding: 0;
     margin: 0;
   }
@@ -9,7 +9,7 @@ h3{
 }
 
 header {
-  background-color: #7dacbd;
+  background-color: #64879f;
   padding: 10px;
   text-align: center;
   font-size: 18px;
@@ -37,7 +37,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: #64879f;
+  background-color: #202d46;
 }
 
 
