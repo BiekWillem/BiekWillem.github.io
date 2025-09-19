@@ -9,11 +9,12 @@ h3{
 }
 
 p{
-outline-style: double;
+background-color: #ff0000;
+padding-left: 5%;
 font-size: 30px;
 color: aliceblue;
 float: left;
-width: 30%;
+width: 45%;
 }
 
 h1{
