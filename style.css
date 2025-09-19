@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(255, 255, 255);
+    background-color: #e9e9e9;
     padding: 0;
     margin: 0;
   }
@@ -9,7 +9,7 @@ h3{
 }
 
 header {
-  background-color: rgb(171, 171, 171);
+  background-color: #cecece;
   padding: 10px;
   text-align: center;
   font-size: 18px;
@@ -17,7 +17,7 @@ header {
 }
 
 p{
-background-color: rgb(44, 49, 99);
+background-color: #a7d1e0;
 padding: 15px;
 font-size: 30px;
 color: rgb(255, 255, 255);
@@ -37,7 +37,7 @@ ul {
   margin: 0;
   padding: 0;
   overflow: hidden;
-  background-color: rgb(34, 35, 59);
+  background-color: #96bad2;
 }
 
 
