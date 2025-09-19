@@ -10,6 +10,10 @@ h3{
 
 p{
 outline-style: double;
+font-size: 30px;
+color: aliceblue;
+float: left;
+width: 30%;
 }
 
 h1{
