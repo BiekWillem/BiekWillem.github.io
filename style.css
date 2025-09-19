@@ -8,6 +8,9 @@ h3{
   text-align: center;
 }
 
+p{
+outline-style: double;
+}
 
 h1{
   text-shadow: 3px 3px black; text-align: center;
