@@ -33,27 +33,29 @@ font-size: 30px;
 color: rgb(0, 0, 0);
 text-align: center;
 width: 90%;
-margin-left: 5%;
+margin-left: 5%
 }
 
 h4{
     background-color: #d1d9e7;
 padding: 15px;
-font-size: 30px;
+font-size: 20px;
 color: rgb(0, 0, 0);
 text-align: left;
 width: 30%;
 float: left;
+margin-left: 10;
 }
 
 h2{
     background-color: #d1d9e7;
 padding: 15px;
-font-size: 30px;
+font-size: 20px;
 color: rgb(0, 0, 0);
 text-align: left;
 width: 30%;
 float: right;
+margin-right: 10;
 }
 
 h1{
