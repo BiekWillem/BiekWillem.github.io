@@ -45,6 +45,7 @@ text-align: left;
 width: 30%;
 float: left;
 margin-left: 10;
+margin-top: -40px;
 }
 
 h2{
@@ -56,6 +57,7 @@ text-align: left;
 width: 30%;
 float: right;
 margin-right: 10;
+margin-top: -20%;
 }
 
 h1{
