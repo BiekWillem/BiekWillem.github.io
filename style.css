@@ -1,6 +1,6 @@
 body { /* met dit commando in het css bestand laat ik alle bodys van elke pagina een mooie opmaak hebben*/
 background-color: #c1d1ef; /* dit is voor de achtergrondkleur */
-padding: 0px;
+padding: 0px; /* deze padding en margin van 0px zorgt ervoor dat er geen achtergrondkleur rand rondom de header komt */
 margin: 0px;
 font-family: Arial, Helvetica, sans-serif;} /* dit is voor het lettertype*/
 
