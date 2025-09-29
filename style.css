@@ -1,34 +1,32 @@
-body {
-background-color: #c1d1ef;
-padding: 0;
-margin: 0;
-font-family: Arial, Helvetica, sans-serif;}
+body { /* met dit commando in het css bestand laat ik alle bodys van elke pagina een mooie opmaak hebben*/
+background-color: #c1d1ef; /* dit is voor de achtergrondkleur */
+font-family: Arial, Helvetica, sans-serif;} /* dit is voor het lettertype*/
 
 
-  * {
-box-sizing: border-box;}
+  * { /* het * teken staat ervoor dat dit geld op alles voor elke pagina voro html bestanden*/
+box-sizing: border-box;} /* met dit commando worden de padding en de rand inbegrepen bij de gedefinieerde width en height, waardoor de totale grootte van het element niet toeneemt wanneer je padding of randen toevoegt. Dit maakt het maken van layouts eenvoudiger en voorspelbaarder, omdat de opgegeven breedte en hoogte de uiteindelijke afmetingen van het element zijn. */
 
 
 h3 {
-text-align: center;}
+text-align: center;} /* dit zorgt ervoor dat de tekst van h3 in het midden gaat */
 
 
-header {
+header { /* als je in een css bestand eerst schrijft wat je wil selecteren zoals in dit gevaal de header, dan komen er daarna deze haaljes: {} en tussen de haakjes kan je alle opmaak schrijven*/
 background-color: #64879f;
 padding: 10px;
 text-align: center;
-font-size: 18px;
-color: rgb(255, 255, 255);}
+font-size: 18px; /* dit zorgt voor de groote van de tekst */
+color: rgb(255, 255, 255);} /* dit zorgt voor de kleur van de tekst */
 
 
 p {
 background-color: #d1d9e7;
-padding: 20px;
+padding: 20px; /* padding is een opvuller, als je dit bij tekst doet met een achtergrond kleur, dan gaat die kleur mee met de padding */
 font-size: 30px;
 color: rgb(0, 0, 0);
-float: left;
+float: left; /* float right betekent dat het gekozen deel naar rechts gaat */
 width: 45%;
-margin-left: 2.5%;}
+margin-left: 2.5%;} /* margin is ook een opvuller net zoals padding maar margin komt nog bovenop padding en de achtergrond kleur gaat niet mee */
 
 
 h5 {
@@ -37,7 +35,7 @@ padding: 15px;
 font-size: 30px;
 color: rgb(0, 0, 0);
 text-align: center;
-width: 90%;
+width: 90%; /* dit geeft aan hoe breed iets moet zijn */
 margin-left: 5%}
 
 
@@ -64,44 +62,45 @@ margin-right: 10;}
 
 
 h1 {
-text-shadow: 3px 3px rgb(0, 0, 0); text-align: center;
+text-shadow: 3px 3px rgb(0, 0, 0); /* dit geeft schaduw aan tekst */
+text-align: center;
 color: rgb(251, 251, 251);}
 
 
 ul {
-list-style-type: none;
+list-style-type: none; /* dit zorgt ervoor dat nummers of punten van een lijst zoals het menu weggaan*/
 margin: 0;
 padding: 0;
-overflow: hidden;
+overflow: hidden; /* dit bekent dat alle dingen die over grenzen van een element gaan afekapt wordt. dit zorgt voor een mooier eindresultaat*/
 background-color: #202d46;}
 
 
-ul li a {
-display: block;
+ul li a { /* dit is om de blokjes van het menu de stylen */
+display: block; /* dit zorgt ervoor dat het blokjes die worden */
 color: white;
 text-align: center;
 padding: 12px 16px;
-text-decoration: none;}
+text-decoration: none;} /* dit zorgt ervoor dat geen decoratie heeft */
 
 
-ul li a:hover {
+ul li a:hover { /* dit zorgt ervoor dat als je eroverheen gaat met je muis dat het dan een donkere kleur krijgt */
 background-color: #111111;}
 
 
-img {
+img { /* al deze regels van img bij elkaar zorgen ervoor dat een afbeelding in het midden komt te staan */
 display: block;
 margin-left: auto;
 margin-right: auto;
 margin-top: 20px;}
 
 
-li a.active {
-background-color: #111111;
+li a.active { /* dit zorgt ervoor dat als je op een bepaald pagina bent, dat je kan zien welke aan het menu doordat die dan donker blijft */
+background-color: #111111; /* dit is dezelfde kleur voor als je eroverheen gaat met je muis */
 color: white;}
 
 
-.rechts1 {
-background-color: #d1d9e7;
+.rechts1 { /* de punt voor rechts1 laat zien dat het gaat om een class die ik zelf aangemakt heb */
+background-color: #d1d9e7; /* deze opmaak is voor het vak rechts, vandaar de naam rechts */
 padding: 15px;
 font-size: 23px;
 color: rgb(0, 0, 0);
@@ -109,10 +108,10 @@ text-align: left;
 width: 30%;
 float: right;
 margin-right: 10;
-margin-top: -82%;}
+margin-top: -82%;} /* al deze dingen bij elkaar zorgen ervoor dat de tekst de goede opmaak, de goede grootte is en op de goede plek staat. */
 
 
-.links1 {
+.links1 { /* deze opmaak is voor het vak links vandaar de naam links*/
 background-color: #d1d9e7;
 padding: 15px;
 font-size: 23px;
@@ -124,7 +123,7 @@ margin-left: 10;
 margin-top: -81%;} 
 
 
-.link2 {
+.link2 { /* deze opmaak is voor een link die je doorverwijst naar een site of video, vandaar de naam link */
 background-color: #d1d9e7;
 color: #111111;
 padding: 25px;
@@ -191,7 +190,7 @@ height: 23%;
 text-align: center;}
 
 
-.link6 {
+.link6 { 
 background-color: #d1d9e7;
 color: #111111;
 float: left; 
@@ -203,11 +202,11 @@ height: 23%;
 text-align: center;}
 
 
-footer {
+footer { /* dit is voor wat helemaal beneden aan de site staat: de maker */
 padding: 28px;
 text-align: center;
 font-weight: bolder;
 font-size: 24px;
 background-color: #000000;
 color: beige;
-padding-top: 40px;}
+padding-top: 40px;} 
