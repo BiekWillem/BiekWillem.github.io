@@ -4,6 +4,8 @@ font-family: Arial, Helvetica, sans-serif;} /* dit is voor het lettertype*/
 
 
   * { /* het * teken staat ervoor dat dit geld op alles voor elke pagina voor html bestanden*/
+    padding: 0px;
+    margin: 0px;
     box-sizing: border-box;} /* met dit commando worden de padding en de rand inbegrepen bij de gedefinieerde width en height, waardoor de totale grootte van het element niet toeneemt wanneer je padding of randen toevoegt. Dit maakt het maken van layouts eenvoudiger en voorspelbaarder, omdat de opgegeven breedte en hoogte de uiteindelijke afmetingen van het element zijn. */
 
 
